@@ -1,10 +1,13 @@
 # AI Powered Chatbot
 
-This project is a simple MERN-style chatbot starter with:
+🚀 **Live Demo:** [https://ai-poweredchatagent.onrender.com/](https://ai-poweredchatagent.onrender.com/)
 
-- a Node.js + Express backend in the server folder
+This project is a modern AI-powered chatbot starter with:
+
+- a Node.js + Express backend in the server folder (powered by Gemini API)
 - a React + Vite frontend in the client folder
-- a basic chat UI that sends messages to the backend and displays bot replies
+- a sleek, interactive chat UI with real-time response generation
+
 
 ## Run locally
 
